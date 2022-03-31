@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "name": "Janie",
+        "email": "jclampton0@over-blog.com",
+        "gender": "Female",
+        "dob": "03-07-1998",
+        "country": "Indonesia",
+        "city": "Klatakan"
+    },
+    
+    {
+        "id": "2",
+        "name": "Kassie",
+        "email": "ksimony1@slasdot.org",
+        "gender": "Female",
+        "dob": "24-12-1987",
+        "country": "Russia",
+        "city": "Sasovo"
+    },
+    
+    {
+        "id": "3",
+        "name": "Homerus",
+        "email": "hivanenkov@163.com",
+        "gender": "Male",
+        "dob": "14-01-1990",
+        "country": "Ukraine",
+        "city": "Leviv"
+    }
+]
